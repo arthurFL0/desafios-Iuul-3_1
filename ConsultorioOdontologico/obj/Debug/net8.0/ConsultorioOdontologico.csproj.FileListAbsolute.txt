@@ -1,0 +1,14 @@
+C:\Users\Arthur\source\repos\Desafio1_2\ConsultorioOdontologico\bin\Debug\net8.0\ConsultorioOdontologico.exe
+C:\Users\Arthur\source\repos\Desafio1_2\ConsultorioOdontologico\bin\Debug\net8.0\ConsultorioOdontologico.deps.json
+C:\Users\Arthur\source\repos\Desafio1_2\ConsultorioOdontologico\bin\Debug\net8.0\ConsultorioOdontologico.runtimeconfig.json
+C:\Users\Arthur\source\repos\Desafio1_2\ConsultorioOdontologico\bin\Debug\net8.0\ConsultorioOdontologico.dll
+C:\Users\Arthur\source\repos\Desafio1_2\ConsultorioOdontologico\bin\Debug\net8.0\ConsultorioOdontologico.pdb
+C:\Users\Arthur\source\repos\Desafio1_2\ConsultorioOdontologico\obj\Debug\net8.0\ConsultorioOdontologico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\source\repos\Desafio1_2\ConsultorioOdontologico\obj\Debug\net8.0\ConsultorioOdontologico.AssemblyInfoInputs.cache
+C:\Users\Arthur\source\repos\Desafio1_2\ConsultorioOdontologico\obj\Debug\net8.0\ConsultorioOdontologico.AssemblyInfo.cs
+C:\Users\Arthur\source\repos\Desafio1_2\ConsultorioOdontologico\obj\Debug\net8.0\ConsultorioOdontologico.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\source\repos\Desafio1_2\ConsultorioOdontologico\obj\Debug\net8.0\ConsultorioOdontologico.dll
+C:\Users\Arthur\source\repos\Desafio1_2\ConsultorioOdontologico\obj\Debug\net8.0\refint\ConsultorioOdontologico.dll
+C:\Users\Arthur\source\repos\Desafio1_2\ConsultorioOdontologico\obj\Debug\net8.0\ConsultorioOdontologico.pdb
+C:\Users\Arthur\source\repos\Desafio1_2\ConsultorioOdontologico\obj\Debug\net8.0\ConsultorioOdontologico.genruntimeconfig.cache
+C:\Users\Arthur\source\repos\Desafio1_2\ConsultorioOdontologico\obj\Debug\net8.0\ref\ConsultorioOdontologico.dll
